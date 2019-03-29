@@ -1,2 +1,9 @@
-# Restaurant - Dev 10 Submission
-Restaurant html project used to test coding skills. Created for Software Guild and the Dev10 program at Genesis 10. 
+# Restaurant - Dev 10 Submission 
+
+This is a mock restaurant website that was created after a two-week online introductory course offered by The Software Guild and was used in the application/interview process for Genesis 10's Dev 10 Program.
+
+I had no previous knowledge of any Front-End or Back-End development languages when I started this application. 
+
+## Technologies Used
+* HTML
+* CSS
